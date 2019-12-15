@@ -2,7 +2,7 @@
 This project calculates statistics on bikeshare customers, rides, and frequent start and end locations.
 
 ### Date created
-Include the date you created this project and README file.
+December 15, 2019
 
 ### Project Title
 Replace the Project Title
